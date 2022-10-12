@@ -22,8 +22,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Sunset
   m_Shader: {fileID: 4800000, guid: 2264124f98f5cfd4cbc655911c910882, type: 3}
-  m_ValidKeywords:
-  - DITHER
+  m_ValidKeywords: []
   m_InvalidKeywords:
   - _ENABLEFOG_ON
   - _GLOSSYREFLECTIONS_OFF
@@ -110,7 +109,7 @@ Material:
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
-    - _Dither: 1
+    - _Dither: 0
     - _DstBlend: 0
     - _EnableFog: 1
     - _EnableRotation: 0
@@ -159,8 +158,8 @@ Material:
     - _Bottom: {r: 1, g: 0.89148253, b: 0.6666666, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _ColorB: {r: 0, g: 1, b: 0.00012111664, a: 1}
-    - _ColorM: {r: 1, g: 0.61935824, b: 0.39308167, a: 1}
-    - _ColorT: {r: 0.24883208, g: 0, b: 0.29245278, a: 1}
+    - _ColorM: {r: 0.5914323, g: 0.8396226, b: 0.7897654, a: 1}
+    - _ColorT: {r: 0.83660126, g: 0, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _Tint: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
