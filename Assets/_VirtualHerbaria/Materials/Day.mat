@@ -115,7 +115,7 @@ Material:
     - _EnableRotation: 0
     - _EnvironmentReflections: 1
     - _ExponentB: 2
-    - _ExponentT: 1.7
+    - _ExponentT: 1.2
     - _Exposure: 1
     - _FogFill: 0.355
     - _FogHeight: 0.262
