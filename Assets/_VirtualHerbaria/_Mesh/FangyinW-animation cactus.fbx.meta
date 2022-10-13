@@ -11,12 +11,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: FangyinW
-    second: {fileID: 2100000, guid: 144636bcc69ee3048ae5f4ec0fcb3f17, type: 2}
+    second: {fileID: 2100000, guid: b0fd1cf2fb238334594bcecb4bfd5c52, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: FangyinW_flo
-    second: {fileID: 2100000, guid: 4b86bf1c8df3e204d8c57c6a50210bb2, type: 2}
+    second: {fileID: 2100000, guid: 1eaf81cdc4a8504458bf331cfef58fbb, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
